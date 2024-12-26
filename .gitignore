@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+
+# Visual Studio Code Settings & Extensions
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# User-specific files
+*.code-workspace
+
+# Visual Studio Code Server
+.vscode-server/
+
+# Visual Studio Code 2022
+.vscode/
+
+# GIT
+.git/
+
+# Visual Studio Code folder
+.vs/
