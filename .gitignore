@@ -52,3 +52,8 @@
 
 # Visual Studio Code folder
 .vs/
+
+# ignore debug
+debug/
+
+x64/
